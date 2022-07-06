@@ -1,7 +1,7 @@
 Olá 👋, meu nome é Bárbara Guimarães!
 ==================================
 
-Sou Desenvolvedora Júnior
+Sou uma Desenvolvedora Júnior.
 ---------------
 
 Este é meu histórico e logo abaixo todas as tecnologias que ultilizo no meu dia a dia! 😉️
