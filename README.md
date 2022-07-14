@@ -1,6 +1,5 @@
 <div>
   <h1 align="center">Olá 👋, meu nome é Bárbara Guimarães!</h1>
-  <h3 align="center">Sou uma Desenvolvedora Júnior.
  <br>
     <br>
   <p align="center">Este é meu histórico e logo abaixo todas as tecnologias que ultilizo no meu dia a dia! 😉️</h2>
