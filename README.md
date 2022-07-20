@@ -5,7 +5,7 @@
   <p align="center">Este é meu histórico e logo abaixo todas as tecnologias que ultilizo no meu dia a dia! 😉️</h2>
 </div>
 <br>
-<h1>Eu estou aprendendo atualmente:</h1>
+<h3>Eu estou aprendendo atualmente:</h3>
 <p> 👩 💻 Promgramação</p>
     <li>
          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,14 +31,14 @@
        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
     </li>
 <br>
-<h2>📱 Contato</h2>
+<h3>📱 Contato</h3>
     <li>
         <a href="https://www.linkedin.com/in/barbara-guimaraes-de-camargo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="mailto:bahcamargo21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a href="https://www.codewars.com/users/BarbaraGuimaraes21"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
     </li>
 
-<h2>📊 Estatísticas</h2>
+<h3>📊 Estatísticas</h3>
 
 <a href="http://www.github.com/BarbaraGuimaraes21"><img src="https://github-readme-stats.vercel.app/api?username=BarbaraGuimaraes21&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BarbaraGuimaraes21's GitHub stats" /></a>
 
